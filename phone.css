@@ -12,7 +12,7 @@
     margin-right: 10px;
 }
 #nav_items a{
-    font-size: 0.2rem;
+    font-size: 0.25rem;
     margin: auto 3px;
 
 }
@@ -22,8 +22,8 @@
     margin-left: 10px;
 }
 #nav_img img{
-    height: 30px;
-    width: 30px;
+    height: 31px;
+    width: 31px;
 }
 #about_sec{
     flex-direction: column;
