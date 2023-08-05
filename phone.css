@@ -12,7 +12,7 @@
     margin-right: 10px;
 }
 #nav_items a{
-    font-size: 0.2rem;
+    font-size: 1.2vw;
     margin: auto 3px;
 
 }
@@ -22,8 +22,8 @@
     margin-left: 10px;
 }
 #nav_img img{
-    height: 30px;
-    width: 30px;
+    height: 31px;
+    width: 31px;
 }
 #about_sec{
     flex-direction: column;
@@ -34,7 +34,7 @@
     margin-bottom: 20px;
 }
 #sub_home_para{
-    font-size: 0.28rem;
+    font-size: 1.95vw;
 }
 #about_para_1, #about_para_3{
     font-size: 0.6rem;
@@ -46,11 +46,11 @@
     font-size: 0.5rem;
 }
 #home_para_div{
-    width: 90%;
+    width: 75%;
 }
 #home_para_img_1,#home_para_img_2{
-    height: 30px;
-    width: 30px;
+    height: 10.5vw;
+    width: 10.5vw;
     margin-top: -5px;
 }
 #home_para_img_1{
