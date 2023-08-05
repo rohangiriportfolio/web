@@ -9,6 +9,7 @@ body{
     width: 100%;
     background: black;
     scroll-behavior: smooth;
+    text-size-adjust: none;
 }
 
 ::-webkit-scrollbar{
